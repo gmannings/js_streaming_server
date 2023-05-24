@@ -1,0 +1,22 @@
+{
+  "name": "js_streaming_server",
+  "version": "0.0.1",
+  "description": "A series of implementations for JS Streaming endpoints. Useful for testing code or as a springboard for a mock streaming server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmannings/js_streaming_server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmannings/js_streaming_server/issues"
+  },
+  "homepage": "https://github.com/gmannings/js_streaming_server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
